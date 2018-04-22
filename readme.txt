@@ -1,5 +1,4 @@
 hello git
-test git;
-
-git is my name;
+--test git;
+git is your name;
 git is handsome;
